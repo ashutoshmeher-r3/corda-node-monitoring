@@ -1,0 +1,6 @@
+**/logs
+**.logs
+**.DS_Store
+**/.cache/**
+**/corda.jar
+**/Shared/node-infos/**
